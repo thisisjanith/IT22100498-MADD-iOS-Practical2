@@ -5,7 +5,7 @@
 - **Student ID:** IT22100498
 - **Student Name:** BANDARA M.R.J.K.
 - **Degree:** BSc (Hons) in Information Technology / Interactive Media
-- **Year / Semester:** Year 04 Semester 01 - 2026
+- **Year / Semester:** Year 04 Semester 02 - 2026
 
 ---
 
